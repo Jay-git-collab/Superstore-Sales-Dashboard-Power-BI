@@ -9,7 +9,7 @@ This project showcases an advanced sales dashboard built using Power BI, designe
 
 The dashboard is powered by sales data from the Superstore dataset. You can find the dataset used for this project here:
 
-Superstore_Sales_Data.xlsx
+Superstore Sales DataSet.xlsx
 
 This dataset includes detailed information on orders, sales, profit, regions, states, and more, enabling a comprehensive analysis of business performance.
 
